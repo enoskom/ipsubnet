@@ -1,0 +1,17 @@
+IPv4 Adresi: 192.168.1.1
+Ağ Adresi: 192.168.1.0
+Kullanılabilir Host IP Aralığı: 192.168.1.1 - 192.168.1.254
+Yayın Adresi: 192.168.1.255
+Toplam Host Sayısı: 256
+Kullanılabilir Host Sayısı: 254
+Subnet Maskesi: 255.255.255.0
+Wildcard Maskesi: 0.0.0.255
+İkili Subnet Maskesi: 11111111.11111111.11111111.00000000
+CIDR Notasyonu: /24
+IP Türü: Özel
+İkili ID: 11000000101010000000000100000001
+Tam Sayı ID: 3232235777
+Hex ID: 0xc0a80101
+in-addr.arpa: 1.1.168.192.in-addr.arpa
+IPv4 Mapped Adresi: ::ffff:c0a80101
+6to4 Öneki: 2002:c0a80101::/48
